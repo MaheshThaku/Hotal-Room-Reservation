@@ -36,5 +36,5 @@ Contact
 If you have any questions or suggestions, feel free to reach out:
 
 GitHub: MaheshThaku
-Email: [your-email@example.com]
+Email: maheshthakur323@gmail.com
 You can customize this template further based on your project's specific requirements. If you want, I can help refine it further if you provide more details about the repository or its purpose.
